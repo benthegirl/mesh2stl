@@ -1,0 +1,13 @@
+Package: mesh2stl
+Type: Package
+Title: Creates stl file from matrices of x, y and z
+Version: 0.0.0.9000
+Author: Elizabeth Ben Ward
+Description: Here is some information.
+URL: https://github.com/benthegirl/mesh2stl
+License: creative commons
+Encoding: UTF-8
+LazyData: true
+Imports:
+ plot3D
+RoxygenNote: 6.1.1
